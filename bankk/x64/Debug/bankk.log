@@ -1,0 +1,5 @@
+﻿  bank.cpp
+C:\Users\HP\source\repos\bankk\bankk\bank.cpp(42,7): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\HP\source\repos\bankk\bankk\bank.cpp(86,7): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\HP\source\repos\bankk\bankk\bank.cpp(131,7): warning C4553: '==': result of expression not used; did you intend '='?
+  bankk.vcxproj -> C:\Users\HP\source\repos\bankk\x64\Debug\bankk.exe
